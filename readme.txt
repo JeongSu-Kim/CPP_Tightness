@@ -9,7 +9,7 @@
 -----------------------------------------------------------------------------
 ・動作確認したOS名とそのバージョン
   Used OS
-  　Windows
+  　Windows 7 Professional 64bit
 
 ・開発に使用したライブラリ、ミドルウェアとそのバージョン
   Used Library/Middleware
@@ -21,7 +21,7 @@
 
 ・開発に使用した開発環境のバージョン
   Used Development Environment
-  　Visual Studio 2015 community
+  　Visual Studio 2015 Community
 
 
 -----------------------------------------------------------------------------
